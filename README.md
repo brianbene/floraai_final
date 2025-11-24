@@ -1,4 +1,4 @@
-# GardenAI: The Field Guide That Grows With You
+# FloraAI: The Field Guide That Grows With You
 
 ## Introduction & Problem Statement
 
